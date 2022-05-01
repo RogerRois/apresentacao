@@ -1,5 +1,6 @@
-# apresentacao
-Meu Primeiro Repository Git/GitHub
+# Apresentaçâo!
+
+Meu Primeiro Repository Git/GitHub<br>
 
 <code>Olá, Desenvolvedores!</code> 
 <br><br>
@@ -9,8 +10,6 @@ Meu Primeiro Repository Git/GitHub
 3- 🌱 Estou aprendendoconhecimentos em: Python, React.js, Javascript.<br>
 4- 💞️ Estou a disposição para futuros Contatos.
 5- 📫 Como chegar até mim; e-mail: roger.tec@roger.tec.br <br>
-
 <br>
-__<br>
-Rogerio Rodrigues | <a href="https://www.roger.tec.br" target="_blank">www.roger.tec.br.br</a><br>
+Rogerio Rodrigues | <a href="https://www.roger.tec.br" target="_blank">roger.tec</a><br>
 
